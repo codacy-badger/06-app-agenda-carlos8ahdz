@@ -1,4 +1,5 @@
 # Ejercicio 6 La Agenda
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/37b426dbff884cb39797e4126e979825)](https://www.codacy.com/app/carlos8ahdz/06-app-agenda-carlos8ahdz?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=POO-2019-2K/06-app-agenda-carlos8ahdz&amp;utm_campaign=Badge_Grade)
 
 ## Tiempo para realizar la actividad
 
